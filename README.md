@@ -7,4 +7,8 @@ Companies usually make a distinction between voluntary churn and involuntary chu
 
 Predictive analytics use churn prediction models that predict customer churn by assessing their propensity of risk to churn. Since these models generate a small prioritized list of potential defectors, they are effective at focusing customer retention marketing programs on the subset of the customer base who are most vulnerable to churn
 
+#Tools
+- DataBricks
+
+# Results
 [Link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2857575529862240/1476446912256917/3939617831172188/latest.html)
